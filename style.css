@@ -1,0 +1,13 @@
+/* styles.css */
+
+/* Targeting the <h1> element */
+h1 {
+    color: blue; /* Change text color to blue */
+    font-size: 24px; /* Increase font size */
+}
+
+/* Targeting the <h2> element */
+h2 {
+    color: green; /* Change text color to green */
+    font-size: 18px; /* Change font size */
+}
